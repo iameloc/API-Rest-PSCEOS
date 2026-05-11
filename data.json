@@ -1,0 +1,26 @@
+{
+   "usuarios":
+   [
+    {
+        "id": 1,
+        "nickname":"Faker",
+        "role":"Midlaner",
+        "champion":"Ahri",
+        "team":"T1"
+    },
+    {
+        "id":2,
+        "nickname":"Caps",
+        "role":"Midlaner",
+        "champion":"Vayne",
+        "team":"G2"
+    },
+    {
+        "id":3,
+        "nickname":"Tatu",
+        "role":"Jungler",
+        "champion":"Aatrox",
+        "team":"Furia"
+    }
+   ] 
+}
