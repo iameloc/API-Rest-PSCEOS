@@ -14,3 +14,9 @@ Funcionalidades
 - Busca de jogador por id
 - Criação de novos jogadores
 - Remoção de jogadores
+
+Rotas 
+GET /api/users/:id  
+POST /api/users  
+PUT /api/users/:id  
+DELETE /api/users/:id
